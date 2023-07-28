@@ -1,2 +1,4 @@
 # IceCubeForLoops
-Formula to convert an ice sphere's weight in grams to its diameter in inches.
+# Formula to convert an ice sphere's weight in grams to its diameter in inches.
+# Premier restaurants and bars are now serving drinks with ice spheres rather than ice cubes to chill the drink. You are tasked with measuring the size of manufactured ice spheres. Rather than measure the diameter directly, you weigh each sphere. You consulted with your company's ice scientist, and they gave you the following formula to convert the ice sphere's weight in grams to its diameter in inches (assuming it is weighed at 0 degrees Fahrenheit and is perfectly spherical); d is the sphere's diameter, and w is the sphere's weight.
+# Create a function called diam() that computes the diameter of the sphere from its argument. Create a for loop that will use your diam() function to compute the diameters of spheres with the following weights in grams: 0.96, 1.51, 2.17, 3.85, 4.45, and 6.02.
